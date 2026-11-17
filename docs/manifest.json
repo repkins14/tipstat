@@ -1,0 +1,15 @@
+{
+  "name": "TIPSTAT",
+  "short_name": "TIPSTAT",
+  "description": "Osobná analytická appka na štatistiky zápasov",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0D1B2A",
+  "theme_color": "#0D1B2A",
+  "lang": "sk",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
